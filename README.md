@@ -24,6 +24,11 @@ Tells crawlers and other non human visitors to your site what would be an accept
 
 * http://www.robotstxt.org/ 
 
+### favicon.ico the 404 generator!
+It seems only seamonkey doesn't try to fetch that one by default
+
+* https://en.wikipedia.org/wiki/Favicon
+
 ##Trolling section
 I don't have strong feelings about well-known uris though it does sound ecologically unsound. How many extra requests and extra 404 lines in log files will we see if everyone has his own "well known" uri, which might potentially break stuff if you don't put it there..?
 
